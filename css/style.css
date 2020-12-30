@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+header{
+	background-color: #274a52ff;
+	color: #fff;
+	padding: 30px;
+}
+
+header a{
+	text-decoration: none;
+	color: #c6e0e7ff;
+	font-family: arial, 'sans-serif';
+	margin-right: 20px;
+}
+
+header a:hover {
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+
+header .header-title {
+	display: inline-block;
+	font-family: sans-serif;
+}
+
+header .menu {
+	display: inline-block;
+	float: right;
+	position: relative;
+	top: 30px;
+
+}
