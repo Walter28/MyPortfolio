@@ -33,5 +33,26 @@ header .menu {
 	float: right;
 	position: relative;
 	top: 30px;
+}
+
+.body-contain section {
+	font-family: arial;
+	margin: 50px 50px 0 50px;
+	padding: 10px;
+	border-left: 2px solid #c6e0e7ff;
+	border: 1px dotted black;
+	height: auto;
+}
+
+.body-contain section a{
+	color: #000;
+	text-decoration: none;
+}
+
+.body-contain section i{
+	font-size: 20px;
+}
+
+.body-contain section ul li {
 
 }
