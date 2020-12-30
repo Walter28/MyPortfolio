@@ -53,6 +53,16 @@ header .menu {
 	font-size: 20px;
 }
 
-.body-contain section ul li {
+.footer {
+	background-color: #1f2526ff;
+	margin-top: 50px;
+	color: grey;
+	text-align: center;
+}
 
+.footer div{
+	display: inline-block;
+	margin-left: 70px;
+	margin-top: 50px;
+	padding-right: 70px;
 }
